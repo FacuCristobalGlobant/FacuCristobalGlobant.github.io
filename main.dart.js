@@ -93667,7 +93667,7 @@ ZB(a){var s=0,r=A.O(t.uv),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e,d,c
 var $async$lH=A.P(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:d=A.a([],t.eu)
 p=4
-l=A.a3(["number",6,"cuisine",a.a,"mealType",a.b,"maxCarbs",a.c,"maxProtein",a.d,"maxCalories",a.e,"maxFat",a.f,"maxCaffeine",a.r,"maxCopper",a.w,"maxCalcium",a.x],t.N,t.z)
+l=A.a3(["number",6,"cuisine",a.a,"type",a.b,"maxCarbs",a.c,"maxProtein",a.d,"maxCalories",a.e,"maxFat",a.f,"maxCaffeine",a.r,"maxCopper",a.w,"maxCalcium",a.x],t.N,t.z)
 s=7
 return A.V(m.a.xd(l),$async$lH)
 case 7:k=a0
